@@ -1,4 +1,4 @@
-<h1 align="center">Hello world 👋,, It's ShaKha!</h1>
+<h1 align="center">Hello world 👋, It's ShaKha!</h1>
 <h3 align="center">A passionate software developer from Uzbekistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakha7877&label=Profile%20views&color=0e75b6&style=flat" alt="shakha7877" /> </p>
